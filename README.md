@@ -3,10 +3,20 @@ This project demonstrates real-time monitoring of events on a Wazuh agent and ho
 
 ### Screenshots
 ###### File Added Event: Screenshot of a file addition event detected by the Wazuh agent.
+![fileaddedtoroot](https://github.com/user-attachments/assets/e3c06d35-c021-4cab-9eb4-20d1dc598ad7)
+
 ###### ossec.conf Configuration Changes:
+![loc for file config](https://github.com/user-attachments/assets/9cce9833-1e05-49c1-98c5-e8ce8aa70b0d)
+
 ###### Agent: Configuration changes to enable real-time monitoring on the Wazuh agent.
+![wazuh agent changes](https://github.com/user-attachments/assets/13113519-5025-473a-bf1a-77e52b2bb9d8)
+
 ###### Manager: Configuration changes on the Wazuh manager to handle and display agent events.
+![wazuh manager change](https://github.com/user-attachments/assets/9c59d175-b200-4295-a5f0-e3480c9bd372)
+
 ###### Event Logs: Logs showing the real-time event details as captured by the Wazuh manager.
+![realtim2](https://github.com/user-attachments/assets/932af064-3379-468f-9e1d-b584d0523651)
+
 
 ### Setup and Configuration
 #### Prerequisites
